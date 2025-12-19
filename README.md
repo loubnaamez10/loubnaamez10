@@ -77,13 +77,12 @@ I enjoy working on real-world projects, collaborating in technical teams, and co
 * Web-based authentication system with user registration and login
 * Implemented secure form handling and data exchange using JSON
 * Backend logic built with Laravel and PHP
-* Simple and clean frontend interface
 
 ---
 
 ### 🤖 Ongoing Project — Arabic NLP Platform
 
-**Python · Django / NLP**
+**Python · Django**
 
 * Current project focused on **Arabic Natural Language Processing**
 * Working on text processing and intelligent features
@@ -116,23 +115,25 @@ Oracle Database · MySQL · SQLite
 
 ## 🎓 Education
 
-🎓 **Bachelor’s Degree in Computer Science (Software Engineering)**
+**Bachelor’s Degree in Mathematics**
 **USTHB – Houari Boumediene University of Science and Technology**
+* in Computer Systems and Software Engineering
 📅 *2023 – 2027*
 
 ---
 
 ## 🌍 Languages
 
-* 🇩🇿 Arabic — Native / Bilingual
-* 🇬🇧 English — Professional working proficiency
-* 🇫🇷 French — Professional working proficiency
+* Arabic — Native / Bilingual
+* English — Professional working proficiency
+* French — Professional working proficiency
+* Turc — Professional working proficiency
 
 ---
 
 ## 📫 Let’s Connect
 
+* 💻 Email: lina.loubnaa@gmail.com 
 * 💼 LinkedIn: https://www.linkedin.com/in/meziane-lina-loubna-3b0ba1313/
-* 💻 GitHub: *You are here* 😄
 
 ---
