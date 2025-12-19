@@ -1,12 +1,12 @@
-# Hi, I'm Meziane Lina Loubna
+# 👋 Hi, I'm Meziane Lina Loubna
 
-🎓 **Software Engineering Student at USTHB**
+🎓 **Software Engineering Student @ USTHB**
 💻 **Full-Stack Developer | AI & Arabic NLP Enthusiast**
 🌱 Passionate about building useful software solutions and learning modern technologies
 
 ---
 
-## About Me
+## 🚀 About Me
 
 I am a Computer Science student specializing in **software engineering**, with hands-on experience in **full-stack development**, **web technologies**, and **Arabic Natural Language Processing (NLP)**.
 
@@ -132,10 +132,7 @@ Oracle Database · MySQL · SQLite
 
 ## 📫 Let’s Connect
 
-* 💼 LinkedIn: *Meziane Lina Loubna*
+* 💼 LinkedIn: https://www.linkedin.com/in/meziane-lina-loubna-3b0ba1313/
 * 💻 GitHub: *You are here* 😄
 
 ---
-
-⭐ *Always learning, always building.*
-
