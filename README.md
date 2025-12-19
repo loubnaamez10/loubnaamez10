@@ -2,7 +2,7 @@
 
 🎓 **Software Engineering Student**
 💻 **Full-Stack Developer | AI & Arabic NLP Enthusiast**
-🌱 Passionate about building useful software solutions and learning modern technologies
+* 🌱 Passionate about building useful software solutions and learning modern technologies
 
 ---
 
@@ -116,7 +116,7 @@ Oracle Database · MySQL · SQLite
 ## 🎓 Education
 
 **Bachelor’s Degree in Mathematics**
-**USTHB – Houari Boumediene University of Science and Technology**
+* **USTHB – Houari Boumediene University of Science and Technology**
 * in Computer Systems and Software Engineering
 📅 *2023 – 2027*
 
