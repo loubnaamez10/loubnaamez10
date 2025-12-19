@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Meziane Lina Loubna
 
-🎓 **Software Engineering Student @ USTHB**
+🎓 **Software Engineering Student**
 💻 **Full-Stack Developer | AI & Arabic NLP Enthusiast**
 🌱 Passionate about building useful software solutions and learning modern technologies
 
