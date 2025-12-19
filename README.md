@@ -115,7 +115,7 @@ Oracle Database · MySQL · SQLite
 
 ## 🎓 Education
 
-**Bachelor’s Degree in Mathematics**
+* **Bachelor’s Degree in Mathematics**
 * **USTHB – Houari Boumediene University of Science and Technology**
 * in Computer Systems and Software Engineering
 📅 *2023 – 2027*
