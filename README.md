@@ -109,8 +109,8 @@ Computer Science student specializing in **Software Engineering**, with practica
 ## 📫 Connect with Me
 
 - GitHub: [loubnaamez10](https://github.com/loubnaamez10)
-- LinkedIn: *(https://www.linkedin.com/in/meziane-lina-loubna-3b0ba1313/)*
-- Email: *(lina.loubnaa@gmail.com)*
+- LinkedIn: *https://www.linkedin.com/in/meziane-lina-loubna-3b0ba1313/*
+- Email: *lina.loubnaa@gmail.com*
 
 ***
 
