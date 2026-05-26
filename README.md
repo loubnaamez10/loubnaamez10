@@ -93,7 +93,7 @@ Computer Science student specializing in **Software Engineering**, with practica
 
 ### Bachelor’s Degree in Mathematics  
 **USTHB – Houari Boumediene University of Science and Technology**  
-**Computer Systems and Software Engineering** | **2023 – 2027**
+**Bachelor’s degree in Computer Systems and Software Engineering** | **2023 – 2026**
 
 ***
 
